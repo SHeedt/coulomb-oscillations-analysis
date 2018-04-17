@@ -1,3 +1,6 @@
+# This file was written by Bernard van Heck
+# https://github.com/bernardvanheck/cb_data_analysis/coulomb_oscillations_analysis.py
+
 import numpy as np
 from mpl_toolkits.axes_grid1 import make_axes_locatable
 from matplotlib import pyplot as plt
